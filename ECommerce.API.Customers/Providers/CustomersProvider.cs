@@ -1,4 +1,4 @@
-﻿using AutoMapper;
+using AutoMapper;
 using ECommerce.Api.Customers.Db;
 using ECommerce.Api.Customers.Interfaces;
 using Microsoft.EntityFrameworkCore;
@@ -28,10 +28,10 @@ namespace ECommerce.Api.Customers.Providers
         {
             if (!dbContext.Customers.Any())
             {
-                dbContext.Customers.Add(new Db.Customer() { Id = 101, Name = "John", Address = "1234 rue Maple", });
-                dbContext.Customers.Add(new Db.Customer() { Id = 2, Name = "John Keyboard", Address = "123334 rue Maple", });
-                dbContext.Customers.Add(new Db.Customer() { Id = 3, Name = "John Monitor", Address = "123 rue Maple", });
-                dbContext.Customers.Add(new Db.Customer() { Id = 4, Name = "John CPU", Address = "12 rue Maple", });
+                
+                dbContext.Customers.Add(new Db.Customer() { Id = 1, Name = "John Keyboard", Address = "123334 rue Maple", });
+                dbContext.Customers.Add(new Db.Customer() { Id = 2, Name = "John Monitor", Address = "123 rue Maple", });
+                dbContext.Customers.Add(new Db.Customer() { Id = 3, Name = "Marcov CPU", Address = "12 rue Maple", });
                 dbContext.SaveChanges();
             }
         }
