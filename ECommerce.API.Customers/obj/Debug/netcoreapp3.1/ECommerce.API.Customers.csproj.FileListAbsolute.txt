@@ -1,0 +1,142 @@
+C:\Users\2133124\OneDrive - John Abbott College\Web Prog 3\new ecommerce\ECommerce\ECommerce.API.Customers\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\2133124\OneDrive - John Abbott College\Web Prog 3\new ecommerce\ECommerce\ECommerce.API.Customers\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\2133124\OneDrive - John Abbott College\Web Prog 3\new ecommerce\ECommerce\ECommerce.API.Customers\bin\Debug\netcoreapp3.1\ECommerce.API.Customers.exe
+C:\Users\2133124\OneDrive - John Abbott College\Web Prog 3\new ecommerce\ECommerce\ECommerce.API.Customers\bin\Debug\netcoreapp3.1\ECommerce.API.Customers.deps.json
+C:\Users\2133124\OneDrive - John Abbott College\Web Prog 3\new ecommerce\ECommerce\ECommerce.API.Customers\bin\Debug\netcoreapp3.1\ECommerce.API.Customers.runtimeconfig.json
+C:\Users\2133124\OneDrive - John Abbott College\Web Prog 3\new ecommerce\ECommerce\ECommerce.API.Customers\bin\Debug\netcoreapp3.1\ECommerce.API.Customers.runtimeconfig.dev.json
+C:\Users\2133124\OneDrive - John Abbott College\Web Prog 3\new ecommerce\ECommerce\ECommerce.API.Customers\bin\Debug\netcoreapp3.1\ECommerce.API.Customers.dll
+C:\Users\2133124\OneDrive - John Abbott College\Web Prog 3\new ecommerce\ECommerce\ECommerce.API.Customers\bin\Debug\netcoreapp3.1\ECommerce.API.Customers.pdb
+C:\Users\2133124\OneDrive - John Abbott College\Web Prog 3\new ecommerce\ECommerce\ECommerce.API.Customers\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\2133124\OneDrive - John Abbott College\Web Prog 3\new ecommerce\ECommerce\ECommerce.API.Customers\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\2133124\OneDrive - John Abbott College\Web Prog 3\new ecommerce\ECommerce\ECommerce.API.Customers\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\2133124\OneDrive - John Abbott College\Web Prog 3\new ecommerce\ECommerce\ECommerce.API.Customers\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\2133124\OneDrive - John Abbott College\Web Prog 3\new ecommerce\ECommerce\ECommerce.API.Customers\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\2133124\OneDrive - John Abbott College\Web Prog 3\new ecommerce\ECommerce\ECommerce.API.Customers\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\2133124\OneDrive - John Abbott College\Web Prog 3\new ecommerce\ECommerce\ECommerce.API.Customers\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\2133124\OneDrive - John Abbott College\Web Prog 3\new ecommerce\ECommerce\ECommerce.API.Customers\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\2133124\OneDrive - John Abbott College\Web Prog 3\new ecommerce\ECommerce\ECommerce.API.Customers\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\2133124\OneDrive - John Abbott College\Web Prog 3\new ecommerce\ECommerce\ECommerce.API.Customers\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\2133124\OneDrive - John Abbott College\Web Prog 3\new ecommerce\ECommerce\ECommerce.API.Customers\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\2133124\OneDrive - John Abbott College\Web Prog 3\new ecommerce\ECommerce\ECommerce.API.Customers\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\2133124\OneDrive - John Abbott College\Web Prog 3\new ecommerce\ECommerce\ECommerce.API.Customers\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\2133124\OneDrive - John Abbott College\Web Prog 3\new ecommerce\ECommerce\ECommerce.API.Customers\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\2133124\OneDrive - John Abbott College\Web Prog 3\new ecommerce\ECommerce\ECommerce.API.Customers\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\2133124\OneDrive - John Abbott College\Web Prog 3\new ecommerce\ECommerce\ECommerce.API.Customers\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\2133124\OneDrive - John Abbott College\Web Prog 3\new ecommerce\ECommerce\ECommerce.API.Customers\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\2133124\OneDrive - John Abbott College\Web Prog 3\new ecommerce\ECommerce\ECommerce.API.Customers\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\2133124\OneDrive - John Abbott College\Web Prog 3\new ecommerce\ECommerce\ECommerce.API.Customers\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\2133124\OneDrive - John Abbott College\Web Prog 3\new ecommerce\ECommerce\ECommerce.API.Customers\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\2133124\OneDrive - John Abbott College\Web Prog 3\new ecommerce\ECommerce\ECommerce.API.Customers\obj\Debug\netcoreapp3.1\ECommerce.API.Customers.csproj.AssemblyReference.cache
+C:\Users\2133124\OneDrive - John Abbott College\Web Prog 3\new ecommerce\ECommerce\ECommerce.API.Customers\obj\Debug\netcoreapp3.1\ECommerce.API.Customers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2133124\OneDrive - John Abbott College\Web Prog 3\new ecommerce\ECommerce\ECommerce.API.Customers\obj\Debug\netcoreapp3.1\ECommerce.API.Customers.AssemblyInfoInputs.cache
+C:\Users\2133124\OneDrive - John Abbott College\Web Prog 3\new ecommerce\ECommerce\ECommerce.API.Customers\obj\Debug\netcoreapp3.1\ECommerce.API.Customers.AssemblyInfo.cs
+C:\Users\2133124\OneDrive - John Abbott College\Web Prog 3\new ecommerce\ECommerce\ECommerce.API.Customers\obj\Debug\netcoreapp3.1\ECommerce.API.Customers.csproj.CoreCompileInputs.cache
+C:\Users\2133124\OneDrive - John Abbott College\Web Prog 3\new ecommerce\ECommerce\ECommerce.API.Customers\obj\Debug\netcoreapp3.1\ECommerce.API.Customers.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\2133124\OneDrive - John Abbott College\Web Prog 3\new ecommerce\ECommerce\ECommerce.API.Customers\obj\Debug\netcoreapp3.1\staticwebassets\ECommerce.API.Customers.StaticWebAssets.Manifest.cache
+C:\Users\2133124\OneDrive - John Abbott College\Web Prog 3\new ecommerce\ECommerce\ECommerce.API.Customers\obj\Debug\netcoreapp3.1\staticwebassets\ECommerce.API.Customers.StaticWebAssets.Pack.cache
+C:\Users\2133124\OneDrive - John Abbott College\Web Prog 3\new ecommerce\ECommerce\ECommerce.API.Customers\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.ECommerce.API.Customers.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\2133124\OneDrive - John Abbott College\Web Prog 3\new ecommerce\ECommerce\ECommerce.API.Customers\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.ECommerce.API.Customers.props
+C:\Users\2133124\OneDrive - John Abbott College\Web Prog 3\new ecommerce\ECommerce\ECommerce.API.Customers\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.ECommerce.API.Customers.props
+C:\Users\2133124\OneDrive - John Abbott College\Web Prog 3\new ecommerce\ECommerce\ECommerce.API.Customers\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.ECommerce.API.Customers.props
+C:\Users\2133124\OneDrive - John Abbott College\Web Prog 3\new ecommerce\ECommerce\ECommerce.API.Customers\obj\Debug\netcoreapp3.1\ECommerce.API.Customers.RazorTargetAssemblyInfo.cache
+C:\Users\2133124\OneDrive - John Abbott College\Web Prog 3\new ecommerce\ECommerce\ECommerce.API.Customers\obj\Debug\netcoreapp3.1\ECommerce.API.Customers.csproj.CopyComplete
+C:\Users\2133124\OneDrive - John Abbott College\Web Prog 3\new ecommerce\ECommerce\ECommerce.API.Customers\obj\Debug\netcoreapp3.1\ECommerce.API.Customers.dll
+C:\Users\2133124\OneDrive - John Abbott College\Web Prog 3\new ecommerce\ECommerce\ECommerce.API.Customers\obj\Debug\netcoreapp3.1\ECommerce.API.Customers.pdb
+C:\Users\2133124\OneDrive - John Abbott College\Web Prog 3\new ecommerce\ECommerce\ECommerce.API.Customers\obj\Debug\netcoreapp3.1\ECommerce.API.Customers.genruntimeconfig.cache
+D:\OneDrive - John Abbott College\Web Prog 3\new ecommerce\ECommerce\ECommerce.API.Customers\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\OneDrive - John Abbott College\Web Prog 3\new ecommerce\ECommerce\ECommerce.API.Customers\bin\Debug\netcoreapp3.1\appsettings.json
+D:\OneDrive - John Abbott College\Web Prog 3\new ecommerce\ECommerce\ECommerce.API.Customers\bin\Debug\netcoreapp3.1\ECommerce.API.Customers.exe
+D:\OneDrive - John Abbott College\Web Prog 3\new ecommerce\ECommerce\ECommerce.API.Customers\bin\Debug\netcoreapp3.1\ECommerce.API.Customers.deps.json
+D:\OneDrive - John Abbott College\Web Prog 3\new ecommerce\ECommerce\ECommerce.API.Customers\bin\Debug\netcoreapp3.1\ECommerce.API.Customers.runtimeconfig.json
+D:\OneDrive - John Abbott College\Web Prog 3\new ecommerce\ECommerce\ECommerce.API.Customers\bin\Debug\netcoreapp3.1\ECommerce.API.Customers.runtimeconfig.dev.json
+D:\OneDrive - John Abbott College\Web Prog 3\new ecommerce\ECommerce\ECommerce.API.Customers\bin\Debug\netcoreapp3.1\ECommerce.API.Customers.dll
+D:\OneDrive - John Abbott College\Web Prog 3\new ecommerce\ECommerce\ECommerce.API.Customers\bin\Debug\netcoreapp3.1\ECommerce.API.Customers.pdb
+D:\OneDrive - John Abbott College\Web Prog 3\new ecommerce\ECommerce\ECommerce.API.Customers\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\OneDrive - John Abbott College\Web Prog 3\new ecommerce\ECommerce\ECommerce.API.Customers\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\OneDrive - John Abbott College\Web Prog 3\new ecommerce\ECommerce\ECommerce.API.Customers\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\OneDrive - John Abbott College\Web Prog 3\new ecommerce\ECommerce\ECommerce.API.Customers\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\OneDrive - John Abbott College\Web Prog 3\new ecommerce\ECommerce\ECommerce.API.Customers\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\OneDrive - John Abbott College\Web Prog 3\new ecommerce\ECommerce\ECommerce.API.Customers\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\OneDrive - John Abbott College\Web Prog 3\new ecommerce\ECommerce\ECommerce.API.Customers\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\OneDrive - John Abbott College\Web Prog 3\new ecommerce\ECommerce\ECommerce.API.Customers\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\OneDrive - John Abbott College\Web Prog 3\new ecommerce\ECommerce\ECommerce.API.Customers\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\OneDrive - John Abbott College\Web Prog 3\new ecommerce\ECommerce\ECommerce.API.Customers\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\OneDrive - John Abbott College\Web Prog 3\new ecommerce\ECommerce\ECommerce.API.Customers\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\OneDrive - John Abbott College\Web Prog 3\new ecommerce\ECommerce\ECommerce.API.Customers\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\OneDrive - John Abbott College\Web Prog 3\new ecommerce\ECommerce\ECommerce.API.Customers\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\OneDrive - John Abbott College\Web Prog 3\new ecommerce\ECommerce\ECommerce.API.Customers\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\OneDrive - John Abbott College\Web Prog 3\new ecommerce\ECommerce\ECommerce.API.Customers\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\OneDrive - John Abbott College\Web Prog 3\new ecommerce\ECommerce\ECommerce.API.Customers\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\OneDrive - John Abbott College\Web Prog 3\new ecommerce\ECommerce\ECommerce.API.Customers\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\OneDrive - John Abbott College\Web Prog 3\new ecommerce\ECommerce\ECommerce.API.Customers\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\OneDrive - John Abbott College\Web Prog 3\new ecommerce\ECommerce\ECommerce.API.Customers\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\OneDrive - John Abbott College\Web Prog 3\new ecommerce\ECommerce\ECommerce.API.Customers\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\OneDrive - John Abbott College\Web Prog 3\new ecommerce\ECommerce\ECommerce.API.Customers\obj\Debug\netcoreapp3.1\ECommerce.API.Customers.csproj.AssemblyReference.cache
+D:\OneDrive - John Abbott College\Web Prog 3\new ecommerce\ECommerce\ECommerce.API.Customers\obj\Debug\netcoreapp3.1\ECommerce.API.Customers.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive - John Abbott College\Web Prog 3\new ecommerce\ECommerce\ECommerce.API.Customers\obj\Debug\netcoreapp3.1\ECommerce.API.Customers.AssemblyInfoInputs.cache
+D:\OneDrive - John Abbott College\Web Prog 3\new ecommerce\ECommerce\ECommerce.API.Customers\obj\Debug\netcoreapp3.1\ECommerce.API.Customers.AssemblyInfo.cs
+D:\OneDrive - John Abbott College\Web Prog 3\new ecommerce\ECommerce\ECommerce.API.Customers\obj\Debug\netcoreapp3.1\ECommerce.API.Customers.csproj.CoreCompileInputs.cache
+D:\OneDrive - John Abbott College\Web Prog 3\new ecommerce\ECommerce\ECommerce.API.Customers\obj\Debug\netcoreapp3.1\ECommerce.API.Customers.MvcApplicationPartsAssemblyInfo.cache
+D:\OneDrive - John Abbott College\Web Prog 3\new ecommerce\ECommerce\ECommerce.API.Customers\obj\Debug\netcoreapp3.1\staticwebassets\ECommerce.API.Customers.StaticWebAssets.Manifest.cache
+D:\OneDrive - John Abbott College\Web Prog 3\new ecommerce\ECommerce\ECommerce.API.Customers\obj\Debug\netcoreapp3.1\staticwebassets\ECommerce.API.Customers.StaticWebAssets.Pack.cache
+D:\OneDrive - John Abbott College\Web Prog 3\new ecommerce\ECommerce\ECommerce.API.Customers\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.ECommerce.API.Customers.Microsoft.AspNetCore.StaticWebAssets.props
+D:\OneDrive - John Abbott College\Web Prog 3\new ecommerce\ECommerce\ECommerce.API.Customers\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.ECommerce.API.Customers.props
+D:\OneDrive - John Abbott College\Web Prog 3\new ecommerce\ECommerce\ECommerce.API.Customers\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.ECommerce.API.Customers.props
+D:\OneDrive - John Abbott College\Web Prog 3\new ecommerce\ECommerce\ECommerce.API.Customers\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.ECommerce.API.Customers.props
+D:\OneDrive - John Abbott College\Web Prog 3\new ecommerce\ECommerce\ECommerce.API.Customers\obj\Debug\netcoreapp3.1\ECommerce.API.Customers.RazorTargetAssemblyInfo.cache
+D:\OneDrive - John Abbott College\Web Prog 3\new ecommerce\ECommerce\ECommerce.API.Customers\obj\Debug\netcoreapp3.1\ECommerce.API.Customers.csproj.CopyComplete
+D:\OneDrive - John Abbott College\Web Prog 3\new ecommerce\ECommerce\ECommerce.API.Customers\obj\Debug\netcoreapp3.1\ECommerce.API.Customers.dll
+D:\OneDrive - John Abbott College\Web Prog 3\new ecommerce\ECommerce\ECommerce.API.Customers\obj\Debug\netcoreapp3.1\ECommerce.API.Customers.pdb
+D:\OneDrive - John Abbott College\Web Prog 3\new ecommerce\ECommerce\ECommerce.API.Customers\obj\Debug\netcoreapp3.1\ECommerce.API.Customers.genruntimeconfig.cache
+C:\Users\2133124\OneDrive - John Abbott College\Web Prog 3\milestone 3 3%\ECommerce\ECommerce.API.Customers\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\2133124\OneDrive - John Abbott College\Web Prog 3\milestone 3 3%\ECommerce\ECommerce.API.Customers\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\2133124\OneDrive - John Abbott College\Web Prog 3\milestone 3 3%\ECommerce\ECommerce.API.Customers\bin\Debug\netcoreapp3.1\ECommerce.API.Customers.exe
+C:\Users\2133124\OneDrive - John Abbott College\Web Prog 3\milestone 3 3%\ECommerce\ECommerce.API.Customers\bin\Debug\netcoreapp3.1\ECommerce.API.Customers.deps.json
+C:\Users\2133124\OneDrive - John Abbott College\Web Prog 3\milestone 3 3%\ECommerce\ECommerce.API.Customers\bin\Debug\netcoreapp3.1\ECommerce.API.Customers.runtimeconfig.json
+C:\Users\2133124\OneDrive - John Abbott College\Web Prog 3\milestone 3 3%\ECommerce\ECommerce.API.Customers\bin\Debug\netcoreapp3.1\ECommerce.API.Customers.runtimeconfig.dev.json
+C:\Users\2133124\OneDrive - John Abbott College\Web Prog 3\milestone 3 3%\ECommerce\ECommerce.API.Customers\bin\Debug\netcoreapp3.1\ECommerce.API.Customers.dll
+C:\Users\2133124\OneDrive - John Abbott College\Web Prog 3\milestone 3 3%\ECommerce\ECommerce.API.Customers\bin\Debug\netcoreapp3.1\ECommerce.API.Customers.pdb
+C:\Users\2133124\OneDrive - John Abbott College\Web Prog 3\milestone 3 3%\ECommerce\ECommerce.API.Customers\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\2133124\OneDrive - John Abbott College\Web Prog 3\milestone 3 3%\ECommerce\ECommerce.API.Customers\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\2133124\OneDrive - John Abbott College\Web Prog 3\milestone 3 3%\ECommerce\ECommerce.API.Customers\bin\Debug\netcoreapp3.1\Microsoft.ApplicationInsights.dll
+C:\Users\2133124\OneDrive - John Abbott College\Web Prog 3\milestone 3 3%\ECommerce\ECommerce.API.Customers\bin\Debug\netcoreapp3.1\Microsoft.ApplicationInsights.AspNetCore.dll
+C:\Users\2133124\OneDrive - John Abbott College\Web Prog 3\milestone 3 3%\ECommerce\ECommerce.API.Customers\bin\Debug\netcoreapp3.1\Microsoft.AI.DependencyCollector.dll
+C:\Users\2133124\OneDrive - John Abbott College\Web Prog 3\milestone 3 3%\ECommerce\ECommerce.API.Customers\bin\Debug\netcoreapp3.1\Microsoft.AI.EventCounterCollector.dll
+C:\Users\2133124\OneDrive - John Abbott College\Web Prog 3\milestone 3 3%\ECommerce\ECommerce.API.Customers\bin\Debug\netcoreapp3.1\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\2133124\OneDrive - John Abbott College\Web Prog 3\milestone 3 3%\ECommerce\ECommerce.API.Customers\bin\Debug\netcoreapp3.1\Microsoft.AI.WindowsServer.dll
+C:\Users\2133124\OneDrive - John Abbott College\Web Prog 3\milestone 3 3%\ECommerce\ECommerce.API.Customers\bin\Debug\netcoreapp3.1\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\2133124\OneDrive - John Abbott College\Web Prog 3\milestone 3 3%\ECommerce\ECommerce.API.Customers\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\2133124\OneDrive - John Abbott College\Web Prog 3\milestone 3 3%\ECommerce\ECommerce.API.Customers\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\2133124\OneDrive - John Abbott College\Web Prog 3\milestone 3 3%\ECommerce\ECommerce.API.Customers\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\2133124\OneDrive - John Abbott College\Web Prog 3\milestone 3 3%\ECommerce\ECommerce.API.Customers\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\2133124\OneDrive - John Abbott College\Web Prog 3\milestone 3 3%\ECommerce\ECommerce.API.Customers\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\2133124\OneDrive - John Abbott College\Web Prog 3\milestone 3 3%\ECommerce\ECommerce.API.Customers\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Users\2133124\OneDrive - John Abbott College\Web Prog 3\milestone 3 3%\ECommerce\ECommerce.API.Customers\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.ApplicationInsights.dll
+C:\Users\2133124\OneDrive - John Abbott College\Web Prog 3\milestone 3 3%\ECommerce\ECommerce.API.Customers\bin\Debug\netcoreapp3.1\Microsoft.Extensions.PlatformAbstractions.dll
+C:\Users\2133124\OneDrive - John Abbott College\Web Prog 3\milestone 3 3%\ECommerce\ECommerce.API.Customers\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\2133124\OneDrive - John Abbott College\Web Prog 3\milestone 3 3%\ECommerce\ECommerce.API.Customers\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\2133124\OneDrive - John Abbott College\Web Prog 3\milestone 3 3%\ECommerce\ECommerce.API.Customers\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+C:\Users\2133124\OneDrive - John Abbott College\Web Prog 3\milestone 3 3%\ECommerce\ECommerce.API.Customers\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\2133124\OneDrive - John Abbott College\Web Prog 3\milestone 3 3%\ECommerce\ECommerce.API.Customers\bin\Debug\netcoreapp3.1\runtimes\win7-x64\native\sni.dll
+C:\Users\2133124\OneDrive - John Abbott College\Web Prog 3\milestone 3 3%\ECommerce\ECommerce.API.Customers\bin\Debug\netcoreapp3.1\runtimes\win7-x86\native\sni.dll
+C:\Users\2133124\OneDrive - John Abbott College\Web Prog 3\milestone 3 3%\ECommerce\ECommerce.API.Customers\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netstandard1.3\System.Data.SqlClient.dll
+C:\Users\2133124\OneDrive - John Abbott College\Web Prog 3\milestone 3 3%\ECommerce\ECommerce.API.Customers\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard1.3\System.Data.SqlClient.dll
+C:\Users\2133124\OneDrive - John Abbott College\Web Prog 3\milestone 3 3%\ECommerce\ECommerce.API.Customers\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\2133124\OneDrive - John Abbott College\Web Prog 3\milestone 3 3%\ECommerce\ECommerce.API.Customers\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\2133124\OneDrive - John Abbott College\Web Prog 3\milestone 3 3%\ECommerce\ECommerce.API.Customers\obj\Debug\netcoreapp3.1\ECommerce.API.Customers.csproj.AssemblyReference.cache
+C:\Users\2133124\OneDrive - John Abbott College\Web Prog 3\milestone 3 3%\ECommerce\ECommerce.API.Customers\obj\Debug\netcoreapp3.1\ECommerce.API.Customers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2133124\OneDrive - John Abbott College\Web Prog 3\milestone 3 3%\ECommerce\ECommerce.API.Customers\obj\Debug\netcoreapp3.1\ECommerce.API.Customers.AssemblyInfoInputs.cache
+C:\Users\2133124\OneDrive - John Abbott College\Web Prog 3\milestone 3 3%\ECommerce\ECommerce.API.Customers\obj\Debug\netcoreapp3.1\ECommerce.API.Customers.AssemblyInfo.cs
+C:\Users\2133124\OneDrive - John Abbott College\Web Prog 3\milestone 3 3%\ECommerce\ECommerce.API.Customers\obj\Debug\netcoreapp3.1\ECommerce.API.Customers.csproj.CoreCompileInputs.cache
+C:\Users\2133124\OneDrive - John Abbott College\Web Prog 3\milestone 3 3%\ECommerce\ECommerce.API.Customers\obj\Debug\netcoreapp3.1\ECommerce.API.Customers.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\2133124\OneDrive - John Abbott College\Web Prog 3\milestone 3 3%\ECommerce\ECommerce.API.Customers\obj\Debug\netcoreapp3.1\staticwebassets\ECommerce.API.Customers.StaticWebAssets.Manifest.cache
+C:\Users\2133124\OneDrive - John Abbott College\Web Prog 3\milestone 3 3%\ECommerce\ECommerce.API.Customers\obj\Debug\netcoreapp3.1\staticwebassets\ECommerce.API.Customers.StaticWebAssets.Pack.cache
+C:\Users\2133124\OneDrive - John Abbott College\Web Prog 3\milestone 3 3%\ECommerce\ECommerce.API.Customers\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.ECommerce.API.Customers.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\2133124\OneDrive - John Abbott College\Web Prog 3\milestone 3 3%\ECommerce\ECommerce.API.Customers\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.ECommerce.API.Customers.props
+C:\Users\2133124\OneDrive - John Abbott College\Web Prog 3\milestone 3 3%\ECommerce\ECommerce.API.Customers\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.ECommerce.API.Customers.props
+C:\Users\2133124\OneDrive - John Abbott College\Web Prog 3\milestone 3 3%\ECommerce\ECommerce.API.Customers\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.ECommerce.API.Customers.props
+C:\Users\2133124\OneDrive - John Abbott College\Web Prog 3\milestone 3 3%\ECommerce\ECommerce.API.Customers\obj\Debug\netcoreapp3.1\ECommerce.API.Customers.RazorTargetAssemblyInfo.cache
+C:\Users\2133124\OneDrive - John Abbott College\Web Prog 3\milestone 3 3%\ECommerce\ECommerce.API.Customers\obj\Debug\netcoreapp3.1\ECommerce.API.Customers.csproj.CopyComplete
+C:\Users\2133124\OneDrive - John Abbott College\Web Prog 3\milestone 3 3%\ECommerce\ECommerce.API.Customers\obj\Debug\netcoreapp3.1\ECommerce.API.Customers.dll
+C:\Users\2133124\OneDrive - John Abbott College\Web Prog 3\milestone 3 3%\ECommerce\ECommerce.API.Customers\obj\Debug\netcoreapp3.1\ECommerce.API.Customers.pdb
+C:\Users\2133124\OneDrive - John Abbott College\Web Prog 3\milestone 3 3%\ECommerce\ECommerce.API.Customers\obj\Debug\netcoreapp3.1\ECommerce.API.Customers.genruntimeconfig.cache
