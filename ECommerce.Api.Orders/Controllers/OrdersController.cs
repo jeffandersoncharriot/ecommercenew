@@ -6,9 +6,9 @@ namespace ECommerce.Api.Orders.Controllers
 {
     /*
 * Course: 		Web Programming 3
-* Assessment: 	Milestone 3
+* Assessment: 	Milestone 3 - Chapter 6
 * Created by: 	Jeff Anderson Charriot - 2133124
-* Date: 		23 November 2023
+* Date: 		7 December 2023
 * Class Name: 	OrdersController.cs
 * Description: 	
 

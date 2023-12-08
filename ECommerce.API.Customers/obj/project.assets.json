@@ -8508,11 +8508,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jeffn\\Source\\Repos\\ecommercenew\\ECommerce.API.Customers\\ECommerce.API.Customers.csproj",
+      "projectUniqueName": "C:\\Users\\jeffn\\Downloads\\ecommercenew\\ECommerce.API.Customers\\ECommerce.API.Customers.csproj",
       "projectName": "ECommerce.API.Customers",
-      "projectPath": "C:\\Users\\jeffn\\Source\\Repos\\ecommercenew\\ECommerce.API.Customers\\ECommerce.API.Customers.csproj",
+      "projectPath": "C:\\Users\\jeffn\\Downloads\\ecommercenew\\ECommerce.API.Customers\\ECommerce.API.Customers.csproj",
       "packagesPath": "C:\\Users\\jeffn\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jeffn\\Source\\Repos\\ecommercenew\\ECommerce.API.Customers\\obj\\",
+      "outputPath": "C:\\Users\\jeffn\\Downloads\\ecommercenew\\ECommerce.API.Customers\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jeffn\\AppData\\Roaming\\NuGet\\NuGet.Config",

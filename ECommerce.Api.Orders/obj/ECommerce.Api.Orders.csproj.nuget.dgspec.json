@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jeffn\\source\\repos\\ecommercenew\\ECommerce.Api.Orders\\ECommerce.Api.Orders.csproj": {}
+    "C:\\Users\\jeffn\\Downloads\\ecommercenew\\ECommerce.Api.Orders\\ECommerce.Api.Orders.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jeffn\\source\\repos\\ecommercenew\\ECommerce.Api.Orders\\ECommerce.Api.Orders.csproj": {
+    "C:\\Users\\jeffn\\Downloads\\ecommercenew\\ECommerce.Api.Orders\\ECommerce.Api.Orders.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jeffn\\source\\repos\\ecommercenew\\ECommerce.Api.Orders\\ECommerce.Api.Orders.csproj",
+        "projectUniqueName": "C:\\Users\\jeffn\\Downloads\\ecommercenew\\ECommerce.Api.Orders\\ECommerce.Api.Orders.csproj",
         "projectName": "ECommerce.Api.Orders",
-        "projectPath": "C:\\Users\\jeffn\\source\\repos\\ecommercenew\\ECommerce.Api.Orders\\ECommerce.Api.Orders.csproj",
+        "projectPath": "C:\\Users\\jeffn\\Downloads\\ecommercenew\\ECommerce.Api.Orders\\ECommerce.Api.Orders.csproj",
         "packagesPath": "C:\\Users\\jeffn\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jeffn\\source\\repos\\ecommercenew\\ECommerce.Api.Orders\\obj\\",
+        "outputPath": "C:\\Users\\jeffn\\Downloads\\ecommercenew\\ECommerce.Api.Orders\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jeffn\\AppData\\Roaming\\NuGet\\NuGet.Config",

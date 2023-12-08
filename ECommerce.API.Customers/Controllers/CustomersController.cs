@@ -6,9 +6,9 @@ namespace ECommerce.Api.Customers.Controllers
 {
     /*
 * Course: 		Web Programming 3
-* Assessment: 	Milestone 3
+* Assessment: 	Milestone 3 - Chapter 6
 * Created by: 	Jeff Anderson Charriot - 2133124
-* Date: 		23 November 2023
+* Date: 		7 December 2023
 * Class Name: 	CustomersController.cs
 * Description: 	
 * ECommerce.Api.Customers.Controllers namespace is an ASP.NET Core API controller handling HTTP requests for customer-related operations

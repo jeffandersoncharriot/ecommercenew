@@ -9200,11 +9200,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jeffn\\Source\\Repos\\ecommercenew\\ECommerce.Api.Products\\ECommerce.Api.Products.csproj",
+      "projectUniqueName": "C:\\Users\\jeffn\\Downloads\\ecommercenew\\ECommerce.Api.Products\\ECommerce.Api.Products.csproj",
       "projectName": "ECommerce.Api.Products",
-      "projectPath": "C:\\Users\\jeffn\\Source\\Repos\\ecommercenew\\ECommerce.Api.Products\\ECommerce.Api.Products.csproj",
+      "projectPath": "C:\\Users\\jeffn\\Downloads\\ecommercenew\\ECommerce.Api.Products\\ECommerce.Api.Products.csproj",
       "packagesPath": "C:\\Users\\jeffn\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jeffn\\Source\\Repos\\ecommercenew\\ECommerce.Api.Products\\obj\\",
+      "outputPath": "C:\\Users\\jeffn\\Downloads\\ecommercenew\\ECommerce.Api.Products\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jeffn\\AppData\\Roaming\\NuGet\\NuGet.Config",
