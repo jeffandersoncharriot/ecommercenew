@@ -144,6 +144,7 @@ C:\Users\jeffn\source\repos\ecommercenew\ECommerce.Api.Search\bin\Debug\netcorea
 C:\Users\jeffn\source\repos\ecommercenew\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\ECommerce.Api.Search.runtimeconfig.dev.json
 C:\Users\jeffn\source\repos\ecommercenew\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\ECommerce.Api.Search.dll
 C:\Users\jeffn\source\repos\ecommercenew\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\ECommerce.Api.Search.pdb
+C:\Users\jeffn\source\repos\ecommercenew\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\ECommerce.Api.Search.xml
 C:\Users\jeffn\source\repos\ecommercenew\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\AutoMapper.dll
 C:\Users\jeffn\source\repos\ecommercenew\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 C:\Users\jeffn\source\repos\ecommercenew\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
@@ -163,8 +164,12 @@ C:\Users\jeffn\source\repos\ecommercenew\ECommerce.Api.Search\bin\Debug\netcorea
 C:\Users\jeffn\source\repos\ecommercenew\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
 C:\Users\jeffn\source\repos\ecommercenew\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
 C:\Users\jeffn\source\repos\ecommercenew\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\jeffn\source\repos\ecommercenew\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
 C:\Users\jeffn\source\repos\ecommercenew\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\Polly.dll
 C:\Users\jeffn\source\repos\ecommercenew\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\Polly.Extensions.Http.dll
+C:\Users\jeffn\source\repos\ecommercenew\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\jeffn\source\repos\ecommercenew\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\jeffn\source\repos\ecommercenew\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\Users\jeffn\source\repos\ecommercenew\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
 C:\Users\jeffn\source\repos\ecommercenew\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
 C:\Users\jeffn\source\repos\ecommercenew\ECommerce.Api.Search\obj\Debug\netcoreapp3.1\ECommerce.Api.Search.csproj.AssemblyReference.cache
@@ -172,6 +177,7 @@ C:\Users\jeffn\source\repos\ecommercenew\ECommerce.Api.Search\obj\Debug\netcorea
 C:\Users\jeffn\source\repos\ecommercenew\ECommerce.Api.Search\obj\Debug\netcoreapp3.1\ECommerce.Api.Search.AssemblyInfoInputs.cache
 C:\Users\jeffn\source\repos\ecommercenew\ECommerce.Api.Search\obj\Debug\netcoreapp3.1\ECommerce.Api.Search.AssemblyInfo.cs
 C:\Users\jeffn\source\repos\ecommercenew\ECommerce.Api.Search\obj\Debug\netcoreapp3.1\ECommerce.Api.Search.csproj.CoreCompileInputs.cache
+C:\Users\jeffn\source\repos\ecommercenew\ECommerce.Api.Search\obj\Debug\netcoreapp3.1\ECommerce.Api.Search.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\jeffn\source\repos\ecommercenew\ECommerce.Api.Search\obj\Debug\netcoreapp3.1\ECommerce.Api.Search.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\jeffn\source\repos\ecommercenew\ECommerce.Api.Search\obj\Debug\netcoreapp3.1\staticwebassets\ECommerce.Api.Search.StaticWebAssets.Manifest.cache
 C:\Users\jeffn\source\repos\ecommercenew\ECommerce.Api.Search\obj\Debug\netcoreapp3.1\staticwebassets\ECommerce.Api.Search.StaticWebAssets.Pack.cache

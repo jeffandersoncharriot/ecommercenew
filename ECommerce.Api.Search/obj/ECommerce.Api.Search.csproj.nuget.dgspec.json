@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jeffn\\Downloads\\ecommercenew\\ECommerce.Api.Search\\ECommerce.Api.Search.csproj": {}
+    "D:\\ecommercenew\\ECommerce.Api.Search\\ECommerce.Api.Search.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jeffn\\Downloads\\ecommercenew\\ECommerce.Api.Search\\ECommerce.Api.Search.csproj": {
+    "D:\\ecommercenew\\ECommerce.Api.Search\\ECommerce.Api.Search.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jeffn\\Downloads\\ecommercenew\\ECommerce.Api.Search\\ECommerce.Api.Search.csproj",
+        "projectUniqueName": "D:\\ecommercenew\\ECommerce.Api.Search\\ECommerce.Api.Search.csproj",
         "projectName": "ECommerce.Api.Search",
-        "projectPath": "C:\\Users\\jeffn\\Downloads\\ecommercenew\\ECommerce.Api.Search\\ECommerce.Api.Search.csproj",
+        "projectPath": "D:\\ecommercenew\\ECommerce.Api.Search\\ECommerce.Api.Search.csproj",
         "packagesPath": "C:\\Users\\jeffn\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jeffn\\Downloads\\ecommercenew\\ECommerce.Api.Search\\obj\\",
+        "outputPath": "D:\\ecommercenew\\ECommerce.Api.Search\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jeffn\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -59,6 +59,10 @@
             "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
               "target": "Package",
               "version": "[1.19.4, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
             }
           },
           "imports": [

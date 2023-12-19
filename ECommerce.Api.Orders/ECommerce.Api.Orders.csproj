@@ -5,6 +5,8 @@
     <UserSecretsId>ff96032a-14a5-46ac-a1bc-fbbe8131508e</UserSecretsId>
     <DockerDefaultTargetOS>Windows</DockerDefaultTargetOS>
     <DockerComposeProjectPath>..\docker-compose.dcproj</DockerComposeProjectPath>
+    <GenerateDocumentationFile>True</GenerateDocumentationFile>
+    <DocumentationFile>Ecommerce.Api.Orders.xml</DocumentationFile>
   </PropertyGroup>
 
 	<ItemGroup>
@@ -12,6 +14,7 @@
 		<PackageReference Include="Microsoft.EntityFrameworkCore.InMemory" Version="3.1.0" />
 		<PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="7.0.0" />
 		<PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.19.4" />
+		<PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
 	</ItemGroup>
 	
 </Project>

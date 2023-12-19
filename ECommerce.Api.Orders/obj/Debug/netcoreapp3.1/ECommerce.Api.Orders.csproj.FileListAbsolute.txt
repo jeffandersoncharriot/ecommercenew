@@ -128,6 +128,7 @@ C:\Users\jeffn\source\repos\ecommercenew\ECommerce.Api.Orders\bin\Debug\netcorea
 C:\Users\jeffn\source\repos\ecommercenew\ECommerce.Api.Orders\bin\Debug\netcoreapp3.1\ECommerce.Api.Orders.runtimeconfig.dev.json
 C:\Users\jeffn\source\repos\ecommercenew\ECommerce.Api.Orders\bin\Debug\netcoreapp3.1\ECommerce.Api.Orders.dll
 C:\Users\jeffn\source\repos\ecommercenew\ECommerce.Api.Orders\bin\Debug\netcoreapp3.1\ECommerce.Api.Orders.pdb
+C:\Users\jeffn\source\repos\ecommercenew\ECommerce.Api.Orders\bin\Debug\netcoreapp3.1\Ecommerce.Api.Orders.xml
 C:\Users\jeffn\source\repos\ecommercenew\ECommerce.Api.Orders\bin\Debug\netcoreapp3.1\AutoMapper.dll
 C:\Users\jeffn\source\repos\ecommercenew\ECommerce.Api.Orders\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 C:\Users\jeffn\source\repos\ecommercenew\ECommerce.Api.Orders\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
@@ -135,11 +136,16 @@ C:\Users\jeffn\source\repos\ecommercenew\ECommerce.Api.Orders\bin\Debug\netcorea
 C:\Users\jeffn\source\repos\ecommercenew\ECommerce.Api.Orders\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
 C:\Users\jeffn\source\repos\ecommercenew\ECommerce.Api.Orders\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
 C:\Users\jeffn\source\repos\ecommercenew\ECommerce.Api.Orders\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\jeffn\source\repos\ecommercenew\ECommerce.Api.Orders\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\jeffn\source\repos\ecommercenew\ECommerce.Api.Orders\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\jeffn\source\repos\ecommercenew\ECommerce.Api.Orders\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\jeffn\source\repos\ecommercenew\ECommerce.Api.Orders\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\Users\jeffn\source\repos\ecommercenew\ECommerce.Api.Orders\obj\Debug\netcoreapp3.1\ECommerce.Api.Orders.csproj.AssemblyReference.cache
 C:\Users\jeffn\source\repos\ecommercenew\ECommerce.Api.Orders\obj\Debug\netcoreapp3.1\ECommerce.Api.Orders.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\jeffn\source\repos\ecommercenew\ECommerce.Api.Orders\obj\Debug\netcoreapp3.1\ECommerce.Api.Orders.AssemblyInfoInputs.cache
 C:\Users\jeffn\source\repos\ecommercenew\ECommerce.Api.Orders\obj\Debug\netcoreapp3.1\ECommerce.Api.Orders.AssemblyInfo.cs
 C:\Users\jeffn\source\repos\ecommercenew\ECommerce.Api.Orders\obj\Debug\netcoreapp3.1\ECommerce.Api.Orders.csproj.CoreCompileInputs.cache
+C:\Users\jeffn\source\repos\ecommercenew\ECommerce.Api.Orders\obj\Debug\netcoreapp3.1\ECommerce.Api.Orders.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\jeffn\source\repos\ecommercenew\ECommerce.Api.Orders\obj\Debug\netcoreapp3.1\ECommerce.Api.Orders.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\jeffn\source\repos\ecommercenew\ECommerce.Api.Orders\obj\Debug\netcoreapp3.1\staticwebassets\ECommerce.Api.Orders.StaticWebAssets.Manifest.cache
 C:\Users\jeffn\source\repos\ecommercenew\ECommerce.Api.Orders\obj\Debug\netcoreapp3.1\staticwebassets\ECommerce.Api.Orders.StaticWebAssets.Pack.cache

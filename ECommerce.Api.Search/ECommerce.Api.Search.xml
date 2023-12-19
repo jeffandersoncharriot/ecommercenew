@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ECommerce.Api.Search</name>
+    </assembly>
+    <members>
+        <member name="M:ECommerce.Api.Search.Controllers.SearchController.SearchAsync(ECommerce.Api.Search.Models.SearchTerm)">
+            <summary>
+            Searches for orders from the specified customer
+            </summary>
+            <remarks>
+            Sample request:
+            
+                POST /api/search 
+                {
+                    "customerId": 2
+                }
+            
+                {
+                    "customer": {
+                        "id": 2,
+                        "name": "John Monitor",
+                        "address": "123 rue Maple"
+                    },
+                    "orders": [
+                        {
+                            "id": 3,
+                            "orderDate": "2023-12-18T11:07:20.8026003-05:00",
+                            "total": 100,
+                            "items": [
+                                {
+                                    "id": 11,
+                                    "productId": 1,
+                                    "productName": "Keyboard",
+                                    "quantity": 10,
+                                    "unitPrice": 10
+                                },
+                                {
+                                    "id": 12,
+                                    "productId": 2,
+                                    "productName": "Mouse",
+                                    "quantity": 10,
+                                    "unitPrice": 10
+                                },
+                                {
+                                    "id": 13,
+                                    "productId": 3,
+                                    "productName": "Monitor",
+                                    "quantity": 1,
+                                    "unitPrice": 100
+                                }
+                            ]
+                        }
+                    ]
+                }
+            </remarks>
+            <param name="termSearch">The search term object containing the customerId.</param>
+            <returns>An IActionResult</returns>
+            <response code="200">Returns the requested customer with their orders</response>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,67 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ECommerce.Api.Products</name>
+    </assembly>
+    <members>
+        <member name="M:ECommerce.Api.Products.Controllers.ProductsController.GetProductsAsync">
+            <summary>
+            Gets all products
+            </summary>
+            <remarks>
+            Sample request:
+            
+                GET /api/products/
+                
+                [
+                    {
+                        "id": 1,
+                        "name": "Keyboard",
+                        "price": 20,
+                        "inventory": 100
+                    },
+                    {
+                        "id": 2,
+                        "name": "Mouse",
+                        "price": 5,
+                        "inventory": 200
+                    },
+                    {
+                        "id": 3,
+                        "name": "Monitor",
+                        "price": 150,
+                        "inventory": 1000
+                    },
+                    {
+                        "id": 4,
+                        "name": "CPU",
+                        "price": 200,
+                        "inventory": 2000
+                    }
+                ]
+                
+            </remarks>
+            <returns>An IActionResult</returns>
+            <response code="200">Returns the list of products</response>
+        </member>
+        <member name="M:ECommerce.Api.Products.Controllers.ProductsController.GetProductAsync(System.Int32)">
+            <summary>
+            Get product by the provided id
+            </summary>
+            <remarks>
+            Sample request:
+            
+                GET /api/products/1
+                {
+                    "id": 1,
+                    "name": "Keyboard",
+                    "price": 20,
+                    "inventory": 100
+                }
+            </remarks>
+            <param name="id">The product id to get</param>
+            <returns>An IActionResult</returns>
+            <response code="200">Returns the requested product</response>
+        </member>
+    </members>
+</doc>
